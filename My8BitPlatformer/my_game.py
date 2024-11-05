@@ -133,5 +133,3 @@ while running:
 
 # Quit Pygame when the loop ends
 pygame.quit()
-#HELLO THIS IS A TEST
-THIS IS A TEST PART 2
